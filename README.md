@@ -1,19 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Givictor/Givictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Devops Projects**
+- 🌱 I’m currently learning **AWS SAA**
+- 👯 I’m looking to collaborate on **AWS and Terraform**
+- 🤔 I’m looking for help with **CICD for Mobile applications**
+- 💬 Ask me about **Technology and Personal Development**
+- 📫 How to reach me: **victorgilbert750@gmail.com**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: **Moviebuff and fan of Agatha Christie Novels**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gilbert-victor) 
