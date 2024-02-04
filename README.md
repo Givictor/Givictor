@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on **Devops Projects**
-- 🌱 I’m currently learning **AWS SAA**
 - 👯 I’m looking to collaborate on **AWS and Terraform**
 - 🤔 I’m looking for help with **CICD for Mobile applications**
 - 💬 Ask me about **Technology and Personal Development**
